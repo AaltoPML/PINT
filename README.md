@@ -42,9 +42,6 @@ Finally, we join the files created in the previous steps via:
 python preproc.py --data wikipedia --r_dim 4 --data_split join
 ```
 
-Note: the folder 'pos_features' contains the precomputed positional features for UCI.
-
-
 ## Running PINT
 
 With the precomputed positional features at hand, we run PINT using the following commands.
