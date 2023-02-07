@@ -16,7 +16,6 @@ Once you do so, place the files in the 'data' folder and run, e.g:
 ```{bash}
 python utils/preprocess_data.py --data wikipedia --bipartite
 ```
-Note that 'data' already contains two sample datasets (Wikipedia and UCI).
 
 
 ## Preprocessing
